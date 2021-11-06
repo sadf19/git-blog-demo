@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 a chenging in master branch 
 roshdana 
+=======
+a chenging in master branch
+a chenging in second branch 
+>>>>>>> second
