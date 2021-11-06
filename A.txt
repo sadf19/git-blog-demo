@@ -1,1 +1,2 @@
-a chenging in master branch 
+a chenging in master branch
+a chenging in second branch 
